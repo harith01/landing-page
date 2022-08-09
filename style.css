@@ -112,3 +112,26 @@ a{
     text-align: center;
     margin-bottom: 50px;
 }
+
+.section-3{
+    background-color: #e5e7eb;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 300px;
+}
+
+blockquote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.cite{
+    display: flex;
+    justify-content: end;
+    font-size: medium;
+    font-weight: bolder;
+}
